@@ -1,6 +1,8 @@
 # 🎨 TPL Palette Converter
 
-A modern web application that converts RGB hex palettes to Tile Layer Pro / Tile Molester (TPL) format. Perfect for game developers, pixel artists, and retro game enthusiasts working with sprite palettes.
+Deployed page: https://goodlucktrying.github.io/Genesis-CRAM-Converter/
+
+A web application that converts RGB hex palettes to Tile Layer Pro / Tile Molester (TPL) format. Perfect for game developers, pixel artists, and retro game enthusiasts working with sprite palettes.
 
 ## ✨ Features
 
